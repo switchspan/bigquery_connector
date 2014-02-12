@@ -1,4 +1,3 @@
-
 Bigquery Connector
 =========================
 
